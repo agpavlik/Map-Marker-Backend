@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Asahreppur",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2023-09-10T01:05:18.547Z",
+      "notes": "",
+      "position": {
+        "lat": "64.38741031812575",
+        "lng": "-18.327319594956542"
+      },
+      "id": "98443204"
+    },
+    {
+      "cityName": "Nuuk",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2024-01-27T00:51:55.338Z",
+      "notes": "",
+      "position": {
+        "lat": "65.65827451982663",
+        "lng": "-42.71484375000001"
+      },
+      "id": "98443209"
+    },
+    {
+      "cityName": "Moraleja de Enmedio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-27T02:21:40.050Z",
+      "notes": "",
+      "position": {
+        "lat": "40.27952566881291",
+        "lng": "-3.8452148437500004"
+      },
+      "id": "98443210"
+    },
+    {
+      "cityName": "Debdeb",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-01-27T04:33:59.945Z",
+      "notes": "",
+      "position": {
+        "lat": "30.29701788337205",
+        "lng": "9.492187500000002"
+      },
+      "id": "98443211"
+    },
+    {
+      "id": "5b4e",
+      "cityName": "Torre del Campo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-04T04:20:17.242Z",
+      "notes": "",
+      "position": {
+        "lat": "37.85750715625203",
+        "lng": "-3.8891601562500004"
+      }
+    },
+    {
+      "id": "eae1",
+      "cityName": "Township of Walker",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-03-04T04:21:18.225Z",
+      "notes": "",
+      "position": {
+        "lat": "38.272688535980976",
+        "lng": "-95.09765625000001"
+      }
+    }
+  ]
+}
