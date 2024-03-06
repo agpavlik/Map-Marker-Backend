@@ -1,0 +1,184 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Asahreppur",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2023-09-10T01:05:18.547Z",
+      "notes": "",
+      "position": {
+        "lat": "64.38741031812575",
+        "lng": "-18.327319594956542"
+      },
+      "id": "98443204"
+    },
+    {
+      "cityName": "Nuuk",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2024-01-27T00:51:55.338Z",
+      "notes": "",
+      "position": {
+        "lat": "65.65827451982663",
+        "lng": "-42.71484375000001"
+      },
+      "id": "98443209"
+    },
+    {
+      "cityName": "Moraleja de Enmedio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-27T02:21:40.050Z",
+      "notes": "",
+      "position": {
+        "lat": "40.27952566881291",
+        "lng": "-3.8452148437500004"
+      },
+      "id": "98443210"
+    },
+    {
+      "cityName": "Debdeb",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-01-27T04:33:59.945Z",
+      "notes": "",
+      "position": {
+        "lat": "30.29701788337205",
+        "lng": "9.492187500000002"
+      },
+      "id": "98443211"
+    },
+    {
+      "id": "5b4e",
+      "cityName": "Torre del Campo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-04T04:20:17.242Z",
+      "notes": "",
+      "position": {
+        "lat": "37.85750715625203",
+        "lng": "-3.8891601562500004"
+      }
+    },
+    {
+      "id": "eae1",
+      "cityName": "Township of Walker",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-03-04T04:21:18.225Z",
+      "notes": "",
+      "position": {
+        "lat": "38.272688535980976",
+        "lng": "-95.09765625000001"
+      }
+    },
+    {
+      "id": "024d",
+      "cityName": "Rubiataba",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-03-04T05:28:40.719Z",
+      "notes": "",
+      "position": {
+        "lat": "-15.155648190727511",
+        "lng": "-49.81750488281251"
+      }
+    },
+    {
+      "id": "9d41",
+      "cityName": "Alcoy",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-04T15:37:53.412Z",
+      "notes": "",
+      "position": {
+        "lat": "38.685509760012025",
+        "lng": "-0.5932617187500001"
+      }
+    },
+    {
+      "id": "5587",
+      "cityName": "Azilal",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-03-04T15:38:46.445Z",
+      "notes": "",
+      "position": {
+        "lat": "31.952162238024975",
+        "lng": "-5.888671875"
+      }
+    },
+    {
+      "id": "20f9",
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-03-04T15:38:50.392Z",
+      "notes": "",
+      "position": {
+        "lat": "17.727758609852284",
+        "lng": "10.195312500000002"
+      }
+    },
+    {
+      "id": "d9f4",
+      "cityName": "Yoko",
+      "country": "Cameroon",
+      "emoji": "🇨🇲",
+      "date": "2024-03-04T15:38:52.282Z",
+      "notes": "",
+      "position": {
+        "lat": "5.266007882805498",
+        "lng": "11.689453125000002"
+      }
+    },
+    {
+      "id": "4eca",
+      "cityName": "Opala",
+      "country": "Congo (the Democratic Republic of the)",
+      "emoji": "🇨🇩",
+      "date": "2024-03-04T15:38:54.235Z",
+      "notes": "",
+      "position": {
+        "lat": "-0.17578097424708533",
+        "lng": "24.082031250000004"
+      }
+    },
+    {
+      "id": "575e",
+      "cityName": "Awerial County",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2024-03-04T15:38:56.071Z",
+      "notes": "",
+      "position": {
+        "lat": "6.402648405963896",
+        "lng": "31.201171875000004"
+      }
+    }
+  ]
+}
